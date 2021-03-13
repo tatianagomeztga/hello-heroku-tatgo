@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<.>Hello ¡'.($_GET["name"]).'!</p>'; ?> 
+ <?php echo '<p>Hello ¡'.($_GET["name"]).'!</p>'; ?> 
  </body>
 </html>
